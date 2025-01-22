@@ -56,7 +56,7 @@ pip install numpy pandas matplotlib seaborn
 2. Place the dataset file (`Crop_recommendation.csv`) in the `dataset/` folder.
 3. Run the script to explore the data:
    ```bash
-   python analysis.py
+   crop.ipynb
    ```
 
 ---
